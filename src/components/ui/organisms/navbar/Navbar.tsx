@@ -1,5 +1,6 @@
 'use client';
-import 'src/components/modules/home/index.scss';
+
+import '../../../../styles/index.scss';
 import React, { useState, useEffect } from 'react';
 import Logo from '../../icons/Logo';
 import { generateClassListFromObject } from '../../../../utils/className';

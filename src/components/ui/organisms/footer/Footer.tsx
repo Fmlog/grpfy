@@ -5,7 +5,7 @@ import Instagram from '../../icons/Instagram';
 // import Instagram from "../../icons/Instagram";
 import Logo from '../../icons/Logo';
 import Twitter from '../../icons/Twitter';
-import 'src/components/modules/home/index.scss';
+import '../../../../styles/index.scss';
 import { Button } from '../../atoms/button/Button';
 import { Footerlink } from './types';
 import Link from 'next/link';

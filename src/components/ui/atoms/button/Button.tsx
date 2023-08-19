@@ -1,5 +1,5 @@
 import React from 'react';
-import 'src/components/modules/home/index.scss';
+import '../../../../styles/index.scss';
 import PrimaryButton from './Primary';
 import { BUTTON_COMPONENT_TO_VARIANT_MAPPING } from '@/constants/button';
 
