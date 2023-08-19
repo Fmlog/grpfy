@@ -1,0 +1,16 @@
+export const groupifyDashboard = '/images/groupify-dashboard.png';
+export const groupifyMemberAdded = '/images/groupify-member-added.png';
+export const groupifyMembersPage = '/images/groupify-members-page.png';
+export const groupifyNewGroupPage = '/images/groupify-new-group-page.png';
+export const groupifyPaymentModal = '/images/groupify-payment.png';
+export const groupifyPersonalInformationModal = '/images/groupify-personal-information.png';
+export const groupifySalesPage = '/images/groupify-sales-page.png';
+export const currencies = '/svg/currencies.svg';
+export const graph = '/svg/graph.svg';
+export const groupifyBot = '/images/groupify-bot.png';
+export const groupifyWhatsappIntegration = '/images/chat.png';
+export const groupMembers = '/svg/group-members.svg';
+export const memberJustJoined = '/svg/memberJoined.svg'
+export const sales = '/svg/sales.svg'
+export const whatsappChatImage = '/images/chat.png'
+export const groupifyDashboardHeader = '/images/groupify-dashboard-header.png'
